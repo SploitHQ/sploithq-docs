@@ -3,7 +3,8 @@ docs_dir: docs
 
 nav:
   - Home: index.md
-  - Tools:      - amass: amass.md
+  - Tools:
+      - amass: amass.md
       - assetfinder: assetfinder.md
       - auditd: auditd.md
       - base64: base64.md
