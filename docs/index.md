@@ -2,6 +2,8 @@
 
 Welcome to the SploitHQ tool documentation. Click on any tool below to view its usage and examples.
 
+🔗 Use the command generator on [SploitHQ](https://www.sploithq.com) for every tool
+
 ## Tools
 - [amass](amass.md)
 - [assetfinder](assetfinder.md)
