@@ -1,2 +1,5 @@
 version: 2
 format: mkdocs
+
+build:
+  os: "ubuntu-22.04"
