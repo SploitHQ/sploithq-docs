@@ -2,7 +2,7 @@
 
 Welcome to the SploitHQ tool documentation. Click on any tool below to view its usage and examples.
 
-🔗 Use the command generator on [SploitHQ](https://www.sploithq.com) for every tool
+🔗 Every tool on [SploitHQ](https://www.sploithq.com) comes with a command generator. Try it out!
 
 ## Tools
 - [amass](amass.md)
