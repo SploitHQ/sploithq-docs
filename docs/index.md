@@ -2,7 +2,8 @@
 
 Welcome to the SploitHQ tool documentation. Click on any tool below to view its usage and examples.
 
-## Tools- [amass](amass.md)
+## Tools
+- [amass](amass.md)
 - [assetfinder](assetfinder.md)
 - [auditd](auditd.md)
 - [base64](base64.md)
